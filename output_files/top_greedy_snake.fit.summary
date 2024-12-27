@@ -1,0 +1,16 @@
+Fitter Status : Successful - Fri Dec 06 20:25:21 2024
+Quartus II 64-Bit Version : 13.0.0 Build 156 04/24/2013 SJ Full Version
+Revision Name : top_greedy_snake
+Top-level Entity Name : top_greedy_snake
+Family : Cyclone IV E
+Device : EP4CE10F17C8
+Timing Models : Final
+Total logic elements : 1,312 / 10,320 ( 13 % )
+    Total combinational functions : 1,266 / 10,320 ( 12 % )
+    Dedicated logic registers : 612 / 10,320 ( 6 % )
+Total registers : 612
+Total pins : 33 / 180 ( 18 % )
+Total virtual pins : 0
+Total memory bits : 90,112 / 423,936 ( 21 % )
+Embedded Multiplier 9-bit elements : 0 / 46 ( 0 % )
+Total PLLs : 1 / 2 ( 50 % )
